@@ -1,25 +1,20 @@
-# Jesica Patel — GIS & AI Portfolio
+# Data Science & AI Portfolio — Jesica Patel
 
-A responsive, static professional portfolio created for AIML-500 Workshop 1. Artifact 1 is the Chatbase career-coaching assistant **Coach Me If You Can**.
+A static portfolio website designed for GitHub Pages.
 
-## Contents
-- `index.html` — full portfolio website
-- `styles.css` — responsive design
+## Files
+- `index.html` — portfolio content and Artifact 1
+- `styles.css` — responsive styling
 - `script.js` — copyright year
 
-## Publish on GitHub Pages
-1. Create a **public** repository on GitHub, e.g. `gis-ai-portfolio`.
-2. Upload these three files to the repository root (not inside another folder).
-3. Commit the files.
-4. Go to **Settings → Pages**. Under **Build and deployment**, select **Deploy from a branch**, choose `main` and `/ (root)`, and save.
-5. After GitHub Pages finishes deploying, open `https://YOUR-USERNAME.github.io/gis-ai-portfolio/`.
-6. Test the site and the live chatbot button in a private browser window.
+## Update your existing GitHub Pages website
+1. Open https://github.com/jesica1312/gis-ai-portfolio
+2. Choose **Add file → Upload files**.
+3. Upload the three website files (`index.html`, `styles.css`, `script.js`) from this folder.
+4. GitHub will show the files as changed; commit to `main`.
+5. Allow a few minutes for GitHub Pages to update.
 
-## Replit (optional editing)
-Create a new HTML/CSS/JS project or import the GitHub repository, then edit the files. Replit is not required for GitHub Pages deployment.
+The existing repository name and URL can stay unchanged. You may rename the repository later, but it is not necessary for your deadline.
 
-## Before submitting
-- Verify the live Chatbase link works and points to your chatbot. If it doesn't, edit the link in `index.html` (search for `chatbase.co`).
-- Review all first-person wording for accuracy.
-- Submit the Brightspace reflection separately; do not add it to this site.
-- Do not publish personal phone numbers, private work data, or sensitive information.
+## Important
+Review the first-person statements and check the Chatbase link before submission. The illustrated chat is explicitly labeled as illustrative, not a screenshot of real output.
